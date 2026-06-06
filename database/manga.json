@@ -1,0 +1,42 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "MHW-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "멸룡술사의 회귀 / Return of the Peerless Dragonslayer",
+  "status": "Ongoing",
+  "author": "O-neul, Elix",
+  "artist": "Shin",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 9.5,
+  "synopsis": "Umat manusia berada di ambang kepunahan akibat serangan naga. Eugene, sang Dragonslayer terakhir, berjuang mati-matian namun akhirnya gugur. Namun, kematian bukanlah akhir baginya. Ia bereinkarnasi kembali ke masa lalu dengan ingatan dan kemampuan dari kehidupan sebelumnya. Kini, dengan kekuatan yang tak tertandingi, ia bersumpah untuk mengubah takdir dan membantai semua naga yang mengancam dunia.",
+  "cover_url": "https://raw.githubusercontent.com/username/HannComic-Assets/main/covers/mhw-001-cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kehancuran dan Awal yang Baru",
+      "images": [
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kebangkitan Sang Pembantai Naga",
+      "images": [
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/username/HannComic-Assets/main/MHW-001/ch-02/004.jpg"
+      ]
+    }
+  ]
+}
